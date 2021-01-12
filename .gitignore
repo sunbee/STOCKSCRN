@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+bin
+lib
+.vscode
+.DS_Store
+__pycache__
